@@ -19,5 +19,5 @@ promedio = (num1 + num2 + num3)/3;
 console.log("El promedio de los siguientes numeros (" +num1 +"," +num2 +"," +num3 +") es " +promedio);
 
 //RTA: El promedio de los siguientes numeros (5,7,9) es 7.
-//RTA: El promedio de los siguientes numeros (-2,-3,-8) es 4,33.
+//RTA: El promedio de los siguientes numeros (-2,-3,-8) es -4,33.
 //RTA: El promedio de los siguientes numeros (-1.2,5.3,-3.3) es 0,267.
