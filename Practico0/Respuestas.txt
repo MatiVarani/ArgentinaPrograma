@@ -1,0 +1,18 @@
+------------- Ejercicio 1: Resta y multiplicacion -------------
+RTA: el valor que devuelve la resta es de 8.
+RTA: El valor que devuelve la multiplicacion es de 204.
+
+------------- Ejercicio 2: areaRectangulo -------------
+RTA a: El area del rectangulo base = 5cm y altura = 3cm tiene un area de 15cm2.
+RTA b: El area del rectangulo base = 12.5cm y altura = 5.3cm tiene un area de 66.25cm2.
+
+------------- Ejercicio 3: conversionGrados -------------
+RTA a: La conversion de 50F es de 10C.
+RTA b: La conversion de 75F es de 23.89C.
+
+------------- Ejercicio 4: promedio3 -------------
+RTA a: El promedio de los siguientes numeros (5,7,9) es 7.
+RTA b: El promedio de los siguientes numeros (-2,-3,-8) es -4,33.
+RTA c: El promedio de los siguientes numeros (-1.2,5.3,-3.3) es 0,267.
+
+
