@@ -21,6 +21,7 @@ rechazados.forEach(a => console.log(a));
 admitidos.sort();
 rechazados.sort();
 
+
 console.log("\nLa lista ordenada de invitados admitidos es:");
 admitidos.forEach(a => console.log(a));
 
